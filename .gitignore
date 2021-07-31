@@ -1,0 +1,5 @@
+images_in/**
+!images_in/.gitkeep
+images_out/**
+!images_out/.gitkeep
+*.zip
